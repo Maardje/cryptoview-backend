@@ -1,1 +1,1 @@
-console.log('dit is een test');
+console.log('dit is een test voor github slack');
