@@ -1,0 +1,22 @@
+{
+  "name": "cryptoview-backend",
+  "version": "1.0.0",
+  "description": "Simple nodejs backend for cryptoview",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/tsc && node dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maardje/cryptoview-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maardje/cryptoview-backend/issues"
+  },
+  "homepage": "https://github.com/Maardje/cryptoview-backend#readme",
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}
